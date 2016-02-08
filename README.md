@@ -1,2 +1,4 @@
 # hello_world
-Just another repository
+
+While the world stands still I spin
+Nobody can see me cos the world is spinning
